@@ -1,7 +1,7 @@
 
 
 
-#The Ultimate CSS Walkthrough
+# The Ultimate CSS Walkthrough
 + Fork and Clone this repository
 + Open the project in your text editor.
 + Open 'index.html' in your browser.
